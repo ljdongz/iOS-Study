@@ -1,1 +1,1 @@
-# iOS-Study
+# GDSC iOS Study
